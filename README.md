@@ -9,4 +9,4 @@ This is a simple website in which AOS (Animate On Scroll) and Animate.css librar
 <br>
 <b>A Sneak Peek</b>
 <br>
-<ol></ol>
+<ol><img src="https://i.ibb.co/VQpyvVq/marvel.png" alt="marvel" border="0"></ol>
