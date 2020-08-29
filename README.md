@@ -8,3 +8,7 @@ This is a simple website in which AOS (Animate On Scroll) and Animate.css librar
 <h3>A Sneak Peek</h3>
 <br>
 <ol><img src="https://i.ibb.co/VQpyvVq/marvel.png" alt="marvel" border="0"></ol>
+<br>
+<Br>
+  <h3>AUTHOR</h3>
+   <a href="https://linktr.ee/Ping_Unnati"> <b>Unnati Mishra🙎</b></a>
